@@ -13,3 +13,7 @@ dependencies = [
     "scikit-learn",
     "numpy",
 ]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["agent*"]
