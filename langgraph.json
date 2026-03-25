@@ -3,5 +3,6 @@
   "graphs": {
     "finance-qa": "./agent/agent.py:chatbot"
   },
-  "env": "./.env"
+  "env": "./.env",
+  "langsmith_project_id": "a15c7e42-d47b-4f07-a7f3-5cfb2a0ed1fd"
 }
